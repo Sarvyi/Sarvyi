@@ -93,3 +93,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <!--   tableau -->
   <code><img height="20" src="https://github.com/Light-coder777/Sarvy/blob/main/tableau.png"></code>
  </details>
+
+
+<details>
+  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp; My Github Stats</b></summary>
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Light-coder777&show_icons=true&theme=gotham" alt="sarvy stats" />
+</details>
