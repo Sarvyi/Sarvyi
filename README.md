@@ -1,19 +1,19 @@
 ## Hello, Sarvy here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img align="center" alt="Code" width ="700" src="https://github.com/Light-coder777/Sarvy/blob/main/alex-chumak-zGuBURGGmdY-unsplash.jpg"/></img>
 ### !!! Freedom !!!  ![](https://visitor-badge.glitch.me/badge?page_id=Light-coder777)
-# I'm a Developer, Creator, and Designer!!
+# I'm a Django Developer, Creator, and Designer!!
 
 - ✍ You can find my projects here.
-- 🔭 I’m currently working on Yoga Pose Correction project.
-- 🌱 I’m currently learning Jetpack Compose and Data Science.
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about Anything related to Python, Django , Android Studio, Data Science , R programming & Statistics.
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I speak 3 languages ( Hindi, English, Marathi ).
+- 🔭 I’m currently working on ** LOTI(Library of the internet)** Project.
+- 🌱 I’m currently learning **Django REST and Data Engineering**.
+- 👯 I’m actively looking to collaborate on open source Projects.
+- 💬 Ask me about Anything related to **React, Django/Flask, Jetpack Compose, Data Science**.
+- 😄 My Passion lies in NLP, Django, Data Engineering.
+<!-- - ⚡ Fun fact: I speak 3 languages ( Hindi, English, Marathi ). -->
 
 <br />
 
-**Hi**, i'm [Sarvagya Singh](https://github.com/Light-coder777), a passionate self-taught Android Developer and a freelance software engineer from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care greatly in the experience, architecture, and code quality of the things I build.
+**Hi**, i'm [Sarvagya Singh](https://github.com/Light-coder777), a passionate self-taught Django developer,  and a  from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care greatly in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
