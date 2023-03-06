@@ -1,7 +1,7 @@
 ## Hello, Sarvy here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img align="center" alt="Code" width ="700" src="https://github.com/Light-coder777/Sarvy/blob/main/alex-chumak-zGuBURGGmdY-unsplash.jpg"/></img>
 ### !!! Freedom !!!  ![](https://visitor-badge.glitch.me/badge?page_id=Light-coder777)
-# I'm a Django Developer, Creator, and Designer!!
+# I'm a Django Developer, Data Science Ethusiast, and passionate programmer!!
 
 - ✍ You can find my projects here.
 - 🔭 I’m currently working on ** LOTI(Library of the internet)** Project.
@@ -13,17 +13,15 @@
 
 <br />
 
-**Hi**, i'm [Sarvagya Singh](https://github.com/Light-coder777), a passionate self-taught Django developer,  and a  from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care greatly in the experience, architecture, and code quality of the things I build.
-
-I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
+**Hi**, i'm [Sarvagya Singh](https://github.com/Light-coder777), a passionate self-taught Django developer,  and a  from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care greatly in the experience, architecture, and code quality of the things I build.
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:sarvagya2100@gmail.com) :)
 
 <!-- Contacts -->
-### Talk with me, I am kinda awesome & vela too 😆 :
+### Talk with me, I am kinda active as well too 😆 :
 <details>
   <summary><b>🛠️&nbsp;&nbsp;**Contacts&nbsp;and&nbsp;Links**</b></summary>
   <br>
@@ -56,7 +54,6 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/Sarvy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
 
 <!-- This is just for all of the languages and framework ik -->
 <details>
