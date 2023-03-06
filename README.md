@@ -21,7 +21,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💼 any freelance work? do reach, [email](mailto:sarvagya2100@gmail.com) :)
 
 <!-- Contacts -->
-### Talk with me, I am kinda active as well too 😆 :
+### Talk with me, I am kinda active to reply as well too :
 <details>
   <summary><b>🛠️&nbsp;&nbsp;**Contacts&nbsp;and&nbsp;Links**</b></summary>
   <br>
