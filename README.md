@@ -114,9 +114,10 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈...
   
 <!--  Stats badeg-->
 <h2 align="center"><b>📈&nbsp;&nbsp;My Github Stats&nbsp;/&nbsp; </b></h3>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Light-coder777&show_icons=true&theme=gotham" alt="sarvy stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Light-coder777&show_icons=true&theme=gotham" alt="sarvy stats" /></p>
 <!--  Contributions Badge-->
 <h2 align="center"><b>⚓&nbsp;&nbsp;My Contributions&nbsp;/&nbsp; </b></h3>
-<p align='center'>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Light-coder777&theme=gotham)](https://git.io/streak-stats)</p>
+<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Light-coder777&theme=gotham" alt="sarvy stats" /></p>
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Light-coder777&theme=gotham)](https://git.io/streak-stats) -->
   
 <marquee><h1 align="center"><p><b> (┬┬﹏┬┬) </b></p></h3></marquee>
