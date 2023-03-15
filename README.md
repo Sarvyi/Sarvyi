@@ -33,14 +33,15 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ### Talk with me, I am kinda active to reply as well too :
 <b>🛠️&nbsp;&nbsp; Contacts &nbsp;and&nbsp;Links </b>
 <!--   Twitter -->
-<!-- <a href="https://twitter.com/Sarvagy30216583">
-  <img align="left" alt="Sarvagya Singh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>  -->
-	![https://twitter.com/Sarvagy30216583](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+[<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">](https://twitter.com/Sarvagy30216583)  
 <!--   linkedin -->
-<a href="https://www.linkedin.com/in/sarvagya-singh-5485201b5/">
-  <img align="left" alt="Sarvagya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sarvagya-singh-5485201b5) 
+<!--  Portfolio-->
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">](https://sarvy.netlify.app/) 
+<!--  Instagram-->
+[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">](https://www.instagram.com/777sarvy777/) 
+<!--  Leetcode-->
+[<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">](https://leetcode.com/LIght_Coder/) 
 <br> <br>
 <!-- 📊 **this week i spent my time on:** -->
 If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈...
@@ -120,5 +121,4 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈...
 <h2 align="center"><b>⚓&nbsp;&nbsp;My Contributions&nbsp;/&nbsp; </b></h3>
 <p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Light-coder777&theme=gotham" alt="sarvy stats" /></p>
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Light-coder777&theme=gotham)](https://git.io/streak-stats) -->
-<!-- [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://ojask.netlify.app/)   -->
 <marquee><h1 align="center"><p><b> (┬┬﹏┬┬) </b></p></h3></marquee>
