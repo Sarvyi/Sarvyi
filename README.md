@@ -31,24 +31,20 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <!-- Contacts -->
 ### Talk with me, I am kinda active to reply as well too :
-<b>🛠️&nbsp;&nbsp; Contacts &nbsp;and&nbsp;Links :</b>
-<div>
-  ### Contacts:
-  [<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></img>](https://twitter.com/Sarvagy30216583)  <br>
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img>](https://www.linkedin.com/in/sarvagya-singh-5485201b5) <br>
-  [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></img>](https://sarvy.netlify.app/) <br>
-  [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img>](https://www.instagram.com/777sarvy777/) <br>
-  [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></img>](https://leetcode.com/LIght_Coder/) <br>
+
+<div align="left">
+  
+### 🛠️ Contacts and Links : 
+
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://sarvy.netlify.app/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=sarvagya1812@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sarvagya-singh-5485201b5)
+[<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">](https://leetcode.com/LIght_Coder/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/777sarvy777/)
+
 </div>
 
-<div align="center">
-### Show some ❤️ by starring ⭐ some of the repositories!
 
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://ojask.netlify.app/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=ojask2002@gmail.com)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://in.linkedin.com/in/ojas-karmarkar-a80a801a4)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ojask002/)
-</div>
 <br> <br>
 <!-- 📊 **this week i spent my time on:** -->
 If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈...
