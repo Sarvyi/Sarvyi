@@ -31,8 +31,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <!-- Contacts -->
 ### Talk with me, I am kinda active to reply as well too :
-<b>🛠️&nbsp;&nbsp; Contacts &nbsp;and&nbsp;Links </b>
-<div align="center">
+
+<div>
+  <b>🛠️&nbsp;&nbsp; Contacts &nbsp;and&nbsp;Links </b>
   [<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">](https://twitter.com/Sarvagy30216583)  
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sarvagya-singh-5485201b5) 
   [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">](https://sarvy.netlify.app/) 
