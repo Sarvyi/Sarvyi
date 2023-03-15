@@ -32,16 +32,18 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!-- Contacts -->
 ### Talk with me, I am kinda active to reply as well too :
 <b>🛠️&nbsp;&nbsp; Contacts &nbsp;and&nbsp;Links </b>
-<!--   Twitter -->
-[<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">](https://twitter.com/Sarvagy30216583)  
-<!--   linkedin -->
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sarvagya-singh-5485201b5) 
-<!--  Portfolio-->
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">](https://sarvy.netlify.app/) 
-<!--  Instagram-->
-[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">](https://www.instagram.com/777sarvy777/) 
-<!--  Leetcode-->
-[<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">](https://leetcode.com/LIght_Coder/) 
+<div align="center">
+  <!--   Twitter -->
+  [<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">](https://twitter.com/Sarvagy30216583)  
+  <!--   linkedin -->
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sarvagya-singh-5485201b5) 
+  <!--  Portfolio-->
+  [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">](https://sarvy.netlify.app/) 
+  <!--  Instagram-->
+  [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">](https://www.instagram.com/777sarvy777/) 
+  <!--  Leetcode-->
+  [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">](https://leetcode.com/LIght_Coder/) 
+</div>
 <br> <br>
 <!-- 📊 **this week i spent my time on:** -->
 If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈...
