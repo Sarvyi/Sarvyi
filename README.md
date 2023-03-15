@@ -1,6 +1,8 @@
 ##  Hello, Sarvy here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!-- <img align="center" alt="Code" width ="700" src="https://github.com/Light-coder777/Sarvy/blob/main/alex-chumak-zGuBURGGmdY-unsplash.jpg"/></img> -->
+
 ## Life is a Gamble !  ![Profile View](https://visitor-badge.glitch.me/badge?page_id=Light-coder777)<br>
+
 ## I'm a Django Developer, Data Science Ethusiast, and passionate programmer!!
 - ✍ You can find my projects here.                                                
 - 🔭 I’m currently working on **LOTI(Library of the internet)** Project.
@@ -9,7 +11,7 @@
 - 💬 Ask me about Anything related to **React, Django/Flask, Jetpack Compose, Data Science**.
 - 😄 My Passion lies in **NLP, Django, Data Engineering**.
 - 💼 any freelance work? do reach, [email](mailto:sarvagya1950@gmail.com) :) <br> <br>
-<!-- - ⚡ Fun fact: I speak 3 languages ( Hindi, English, Marathi ). -->
+
 <!-- 
 ```
   ____                  ____                      
@@ -22,8 +24,8 @@
 /___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
                  /___/                /___/       
 ``` -->
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
 
 **Hi**, I'm [Sarvagya Singh](https://github.com/Light-coder777), a passionate self-taught Django developer,  and programming enthusiast from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care greatly in the experience, architecture, and code quality of the things I build.
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
@@ -44,8 +46,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 </div>
 
-
-<br> <br>
 <!-- 📊 **this week i spent my time on:** -->
 If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈...
 <a href="https://www.buymeacoffee.com/Sarvy" target="_blank"><br><br><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
