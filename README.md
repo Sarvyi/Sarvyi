@@ -33,9 +33,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ### Talk with me, I am kinda active to reply as well too :
 <b>🛠️&nbsp;&nbsp; Contacts &nbsp;and&nbsp;Links </b>
 <!--   Twitter -->
-<a href="https://twitter.com/Sarvagy30216583">
+<!-- <a href="https://twitter.com/Sarvagy30216583">
   <img align="left" alt="Sarvagya Singh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a> 
+</a>  -->
+	![https://twitter.com/Sarvagy30216583](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 <!--   linkedin -->
 <a href="https://www.linkedin.com/in/sarvagya-singh-5485201b5/">
   <img align="left" alt="Sarvagya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
