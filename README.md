@@ -57,7 +57,7 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈...
   <!--   python -->
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;
   <!--   rust -->
-  <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/144px-Rust_programming_language_black_logo.svg.png"></code> &nbsp;
+  <code><img height="20" src="https://plugins.jetbrains.com/files/13954/290585/icon/pluginIcon.png"></code> &nbsp;
   <!--   C lang -->
   <code><img height="20" src="https://github.com/Light-coder777/Sarvy/blob/main/C.png"></code>&nbsp;
   <!--   C++ -->
