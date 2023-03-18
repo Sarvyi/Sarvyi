@@ -90,6 +90,8 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈...
     <code><img height="20" src="https://ionicframework.com/docs/icons/logo-react-icon.png"></code>&nbsp;
     <!--      NODEJS-->
     <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"></code>&nbsp;
+    <!-- data science -->
+    <code><img height="20" src="https://github.com/Light-coder777/Sarvy/blob/main/datascience.jpg"></code>&nbsp;
 </p> 
   
   
@@ -99,8 +101,6 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈...
 <p>
   <!--   photoshop -->
   <code><img height="20" src="https://github.com/Light-coder777/Sarvy/blob/main/Photoshop.png"></code>&nbsp;
-  <!-- data science -->
-  <code><img height="20" src="https://github.com/Light-coder777/Sarvy/blob/main/datascience.jpg"></code>&nbsp;
   <!--   pandas -->
   <code><img height="20" src="https://github.com/Light-coder777/Sarvy/blob/main/pandas.png"></code>&nbsp;
   <!--   tableau -->
