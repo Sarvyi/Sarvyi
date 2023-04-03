@@ -1,7 +1,7 @@
 ##  Hello, Sarvy here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!-- <img align="center" alt="Code" width ="700" src="https://github.com/Light-coder777/Sarvy/blob/main/alex-chumak-zGuBURGGmdY-unsplash.jpg"/></img> -->
 
-## Life is a Gamble !  ![Profile View](https://visitor-badge.glitch.me/badge?page_id=Light-coder777)<br>
+## Life is a Gamble !  ![Profile View](https://visitor-badge.glitch.me/badge?page_id=Sarvyi)<br>
 
 ## I'm a Django Developer, Data Science Ethusiast, and passionate programmer!!
 - ✍ You can find my projects here.                                                
@@ -119,9 +119,9 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈...
   
 <!--  Stats badeg-->
 <h2 align="center"><b>📈&nbsp;&nbsp;My Github Stats&nbsp;/&nbsp; </b></h3>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Light-coder777&show_icons=true&theme=gotham" alt="sarvy stats" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sarvyi&show_icons=true&theme=gotham" alt="sarvy stats" /></p>
 <!--  Contributions Badge-->
 <h2 align="center"><b>⚓&nbsp;&nbsp;My Contributions&nbsp;/&nbsp; </b></h3>
-<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Light-coder777&theme=gotham" alt="sarvy stats" /></p>
+<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Sarvyi&theme=gotham" alt="sarvy stats" /></p>
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Light-coder777&theme=gotham)](https://git.io/streak-stats) -->
 <marquee><h1 align="center"><p><b> (┬┬﹏┬┬) </b></p></h3></marquee>
