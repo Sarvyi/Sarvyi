@@ -5,7 +5,7 @@
 
 ## I'm a Django Developer, Data Science Ethusiast, and passionate programmer!!
 - ✍ You can find my projects here.                                                
-- 🔭 I’m currently working on **LOTI(Library of the internet)** Project.
+<!-- - 🔭 I’m currently working on **LOTI(Library of the internet)** Project. -->
 - 🌱 I’m currently learning **Django REST and Data Engineering**.
 - 👯 I’m actively looking to collaborate on **OPEN SOURCE** Projects.
 - 💬 Ask me about Anything related to **React, Django/Flask, Jetpack Compose, Data Science**.
