@@ -1,8 +1,6 @@
 ##  Hello, Sarvy here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!-- <img align="center" alt="Code" width ="700" src="https://github.com/Light-coder777/Sarvy/blob/main/alex-chumak-zGuBURGGmdY-unsplash.jpg"/></img> -->
 
-## Life is a Gamble !  ![Profile View](https://visitor-badge.glitch.me/badge?page_id=Sarvyi)<br>
-
 ## I'm a Django Developer, Data Science Ethusiast, and passionate programmer!!
 - ✍ You can find my projects here.                                                
 <!-- - 🔭 I’m currently working on **LOTI(Library of the internet)** Project. -->
